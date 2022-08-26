@@ -1,8 +1,6 @@
 # Presentación
 
-## Estudiante: _COMPLETAR CON TU NOMBRE_
-
-Esta práctica está pensada para ir familiarizándose con la plataforma de GitHub, herramienta que vamos a estar usando para las entregas de TPs.
+## Estudiante: _Lucas Javier Martinez_
 
 Consiste en hacer 2 simples tareas:
 - [ ] **Editar este archivo completando tu nombre**. Para eso basta con 
@@ -17,5 +15,6 @@ Una vez seleccionado el archivo hay que crear el _commit_ para subir los cambios
 
 - [ ] **Agregar algo sobre vos**. Editá el README nuevamente para agregar algo sobre vos. Podés borrar y agregar lo que quieras. Dejalo como te guste!
 ]
+Mi nombre es Lucas, trabajo en ciberseguridad desde este año. Me gusta pensar y los desafios.
 - [ ] **Mirá la presentación de tus compas**. Una vez que terminaste, andá al [Github del curso](https://github.com/obj1unq) y mirá las presentaciones de tus compas. Haceles comentarios en la parte de _Issues_, despus volvé y respondé los issues de tu presentación.
 
